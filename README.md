@@ -18,7 +18,7 @@ This project analyzes bike-sharing data in New York City using BigQuery and Look
 - Looker Studio for data visualization
 
  **Live Dashboard:**
-[Click here to view the dashboard](https://lookerstudio.google.com/reporting/5ef83367-9746-40f2-9cc1-04cda7b54599)
+[Click here to view the dashboard](https://lookerstudio.google.com/reporting/5ef83367-9746-40f2-9cc1-04cda7b54599 )
 
  **Key Insights Visualized:**
 - Total number of trips by day/month
